@@ -40,7 +40,7 @@ function App() {
           Review next step of this tutorial. Reviewed.
         </a>
       </div>
-      <button onClick={signOut}>Sign out</button>
+      <button onClick={signOut}>Sign out!</button>
     </main>
   );
 }
