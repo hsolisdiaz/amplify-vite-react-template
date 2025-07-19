@@ -37,7 +37,7 @@ function App() {
         Create a new todo.
         <br />
         <a href="https://docs.amplify.aws/react/start/quickstart/#make-frontend-updates">
-          Review next step of this tutorial. Reviewed.
+          Review next step of this tutorial. Reviewed. Again.
         </a>
       </div>
       <button onClick={signOut}>Sign out!</button>
